@@ -1,0 +1,25 @@
+{
+  "data_note": "Synthetic demonstration data; official CSVs were not included in CH22.pdf.",
+  "raw_pick_rows_including_duplicates": 2443,
+  "clean_valid_pick_records": 2277,
+  "mean_pick_duration_min": 12.61,
+  "median_pick_duration_min": 12.33,
+  "mean_order_wait_min": 34.85,
+  "random_forest_regressor": {
+    "test_MAE_min": 2.04,
+    "test_RMSE_min": 2.54,
+    "test_R2": 0.563
+  },
+  "supplementary_delay_classifier": {
+    "accuracy": 0.765,
+    "F1": 0.764
+  },
+  "slowest_zone": "C-02",
+  "slowest_zone_avg_min": 13.65,
+  "fastest_zone": "A-01",
+  "fastest_zone_avg_min": 11.73,
+  "slowest_category": "Industrial",
+  "slowest_category_avg_min": 13.18,
+  "highest_avg_shift": "Night",
+  "highest_avg_shift_min": 15.44
+}

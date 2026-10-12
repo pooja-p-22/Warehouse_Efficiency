@@ -1,0 +1,5 @@
+priority,order_count,avg_queue_min,median_queue_min
+High,244,35.64491654021244,36.0
+Low,147,34.84855769230769,35.0
+Normal,377,34.513353115727,34.0
+Urgent,65,33.90052356020942,33.0

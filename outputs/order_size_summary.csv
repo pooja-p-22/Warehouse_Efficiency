@@ -1,0 +1,5 @@
+order_size_band,pick_count,avg_pick_time_min
+Small (1-3),1609,12.636296608513364
+Medium (4-7),530,12.517504473762264
+Large (8-13),112,13.053603088589284
+Very large (14+),26,11.244780128205129

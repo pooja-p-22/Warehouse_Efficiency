@@ -1,0 +1,7 @@
+zone,zone_type,distance_band
+A-01,Fast-pick,Short
+A-02,Fast-pick,Short
+B-01,Standard,Medium
+B-02,Standard,Medium
+C-01,Bulk,Long
+C-02,Bulk,Long
