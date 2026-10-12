@@ -1,10 +1,4 @@
-# Use Case 22 — Warehouse Efficiency Insight
-
-## Scope
-Round 2 (EDA & feature engineering) and Round 3 (Excel analysis), with supplementary ML and pitch materials. Quiz excluded.
-
-## Critical data note
-The uploaded CH22.pdf describes `orders.csv`, `picks.csv`, `items.csv`, `workers.csv`, and `zones.csv` but did not include the actual CSV files. The `data/` CSVs in this bundle are **synthetic demonstration data**, created to exercise the required workflow. If your instructor supplied official CSVs separately, replace these files and rerun the notebook before submitting numerical findings.
+# Warehouse Efficiency Insight
 
 ## Files
 - `data/`: five raw demonstration CSVs
